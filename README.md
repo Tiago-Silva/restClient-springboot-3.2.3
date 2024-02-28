@@ -4,6 +4,11 @@
 
 No projeto foi utilizado o spring boot e a plataforma intelij idea. Você pode utilizar qualquer plataforma de desenvolvimento, exemplo: eclipse e o Netbeans.
 
+## 🫂 Site utilizado para realizar os testes - CRUD
+
+**[CRUDCRUD](https://crudcrud.com)**
+
+
 ## 🚀 Instalando
 
 Primeiro, você deve clonar o projeto na sua máquina, para isso você
